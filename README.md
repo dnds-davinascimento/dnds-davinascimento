@@ -2,17 +2,17 @@
 <br/>  
 
 ## Qualquer coisa, é só me chamar!  
-<div>
-  <a href="mailto:seuemail@gmail.com">
+
+  <a href="mailto:davi@croicomputadores.com.br">
     ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   </a>
-  <a href="https://wa.me/5511XXXXXXXXXX">
+  <a href="https://wa.me/5591982792221">
     ![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
   </a>
   <a href="https://www.linkedin.com/in/seulinkedin">
     ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
   </a>
-</div>
+
 
 ---
 
